@@ -206,3 +206,5 @@ echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
 touch kitty_info.txt
 chmod +x kitty_info.txt
 echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+grep --color -n 'meow[a-z]*' kitty_ipsum_1.txt
+grep --color 'meow[a-z]*' kitty_ipsum_1.txt
