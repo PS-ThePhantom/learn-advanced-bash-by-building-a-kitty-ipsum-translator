@@ -47,3 +47,4 @@ read NAME < name.txt
 echo $NAME
 echo jfgf
 echo $NAME
+cat
