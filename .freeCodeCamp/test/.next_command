@@ -55,3 +55,4 @@ echo freeCodeCamp > name.txt
 cat < name.txt
 echo haggs
 touch script.sh
+chmod +x script.sh
