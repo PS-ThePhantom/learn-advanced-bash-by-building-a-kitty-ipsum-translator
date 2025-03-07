@@ -61,3 +61,6 @@ chmod +x script.sh
 echo phuluso
 echo phuluso
 echo phuluso
+cat name.txt
+echo ./script.sh < name.txt
+./script.sh < name.txt
