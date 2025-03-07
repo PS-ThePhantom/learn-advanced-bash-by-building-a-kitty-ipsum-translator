@@ -48,3 +48,4 @@ echo $NAME
 echo jfgf
 echo $NAME
 cat
+cat name.txt
