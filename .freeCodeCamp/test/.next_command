@@ -49,3 +49,7 @@ echo jfgf
 echo $NAME
 cat
 cat name.txt
+cat name.txt < name.txt
+cat name.txt > name.txt
+echo freeCodeCamp > name.txt
+cat < name.txt
